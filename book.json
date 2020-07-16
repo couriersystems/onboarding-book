@@ -20,5 +20,12 @@
                 "picto": "fa-question-circle"
             }
         }
+    },
+    "pdf": {
+        "margin": {
+            "right": 0,
+            "left": 0
+        },
+        "headerTemplate": "Onboarding Guide"
     }
 }

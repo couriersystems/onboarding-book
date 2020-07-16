@@ -1,0 +1,3 @@
+- Change h3 to div in node_modules callouts when exporting as pdf
+- Looks like CSS overwritting / subclassing doesn't work for pdf export
+-

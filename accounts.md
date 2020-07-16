@@ -32,20 +32,6 @@ of the setup will be through their Edutone system.
 >   1. If you don't already use GG4L, contact them to get setup and access their *free* benefits for schools.
 >   2. Add SmartPass as a vendor in GG4L
 
-### Google Suite for Education sync - SSO
-If your students already use Google apps such as Google Classroom, Drive, etc, syncing through G Suite for Education is
-also a good option. This way, students can sign into SmartPass with their existing Google emails and passwords. 
-
-> #### SPTodo:: Sync accounts from G Suite
-> Assign your IT team to this task as it is more technical. Have them look over these instructions and email your tech
-> contact if they have any questions.
-> 
-> [Instructions](instructions/gsuite.md)
-> 
-> **Overview**:
->   1. Authorize SmartPass to access your Google Suite for Education
->   2. Tell SmartPass which Google Orgs it should create accounts for 
-
 <!-- **Steps:**
 1. First, have your technical team send us an email with the subject ```Requesting Onboarding Link``` to
    support@smartpass.app. We will send them some technical information on how to authorize SmartPass and connect us to

@@ -6,7 +6,7 @@ setup. Later on, you can customize it to your needs. In this guide we will:
 - Add individual rooms as it's own tile
 - Customize advanced settings
 
-If you need help at any step email your tech representative, or checkout our [documentation on rooms](https://www.smartpass.app/support#rooms).
+If you need help at any step email your tech representative, or checkout our [documentation on rooms](https://www.smartpass.app/support).
 
 ### Ensure all of your teacher accounts have been added
 One of the important steps in room setup is assigning teachers to their respective rooms. Teacher accounts need to be
@@ -29,14 +29,3 @@ upload all of your classrooms (rooms where teachers teach) into SmartPass.
 > 5. Hit save in the top right corner
 > 
 > **Tip:** Can't see the save button? Make sure you've added a name and selected a color and icon.
-
-### Add other rooms
-Next, add any other rooms you would like to show as it's own individual tile. 
-![tiles](../imgs/tiles.png)
-For example, add a Main Office, Nurse, or
-Library. If you want to have a room for each Bathroom in your school (Eg. West Bathroom, East Wing Bathroom), we
-recommend creating a folder just for bathrooms for easy access.
-![bathrooms](../imgs/bathroom_folder.png)
-
-### Room advanced options
-If you click into a specific room, you will be able to see advanced options. Read about what you can set on [our support article](https://www.smartpass.app/support/admin-room-options).
