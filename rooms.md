@@ -16,7 +16,9 @@ visit, counselor meetings, and more.
 ### Restricted Rooms
 Rooms in SmartPass have a restricted setting. When a room is restricted, students will need prior digital approval
 before they are given a pass for that room. Your school can use a combination of restricted and unrestricted rooms to
-control how your students can make passes. For example, ```Put awesome example here```!!
+control how your students can make passes.
+
+<!-- TODO: Add better example of restricted rooms -->
 
 ### Setup
 Get the most out of the system by discussing how you will configure your SmartPass rooms. Reference the following
@@ -33,15 +35,18 @@ requests to go to a room, a teacher can approve that request through smartpass. 
 pass to that room. 
 
 ##### Ex 2. Combination of unrestricted and restricted
-Set certain rooms to restricted to control access to certain rooms or events. For example, **<-- finish this** 
+Set certain rooms to restricted to control access to certain rooms or events. For example, restrict special rooms such
+as a printer room, or supply room, to ensure students always have digital permission before going to that room.
 
-
+##### Ex 3. Make all rooms restricted
+Have teachers approve all passes that students make. This ensures that teachers always have full control over what
+passes students make. 
 
 Next, actually add your rooms to SmartPass using a SmartPass admin account.
 
 > #### SPTODO:: Add rooms to SmartPass
-> This step is a little lengthy so a team of 2 would be ideal. You will need a list of the classrooms in your school
-> and the corresponding teachers' emails.
+> This step is a little lengthy so a team of 2 would be ideal and it's non-technical so anyone can do it. You will need
+> a list of the classrooms in your school and the corresponding teachers' emails.
 > 
 > [Instructions](instructions/add_rooms.md)
 > 

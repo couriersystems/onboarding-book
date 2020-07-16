@@ -9,8 +9,6 @@ To keep things simple, we've marked all tasks that you need to delegate in a TOD
 > #### SPTodo:: Example todo
 > This is an example todo
 
-You can find a list of all todos on the [todo page](todos.md).
-
 ## Getting started
 
 To setup SmartPass, you need to accomplish the following two tasks:

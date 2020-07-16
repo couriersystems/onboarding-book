@@ -14,14 +14,14 @@
 
 /* Link colors */
 
-.markdown-section a {
+a {
     color: #00B476
 }
 
 
 /* Code Block (Used to highlight buttons in UI) */
 
-.markdown-section code {
+code {
     color: white;
     font-weight: bold;
     background-color: #6651F1;

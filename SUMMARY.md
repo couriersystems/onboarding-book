@@ -3,7 +3,6 @@
 ## Intro
 * [Welcome to SmartPass!](README.md)
 * [What is SmartPass](smartpass.md)
-* [What can SmartPass do?](feature_overview.md)
 
 ## Onboarding
 * [Admin guide](admin_guide.md)

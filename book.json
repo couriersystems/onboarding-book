@@ -2,9 +2,14 @@
     "plugins": [
         "-sharing",
         "callouts",
-        "remove-publish-link"
+        "remove-publish-link",
+        "favicon"
     ],
     "pluginsConfig": {
+        "favicon": {
+            "shortcut": "imgs/favicons/favicon.png",
+            "bookmark": "imgs/favicons/favicon.png"
+        },
         "callouts": {
             "showTypeInHeader": false,
             "sptodo": {
