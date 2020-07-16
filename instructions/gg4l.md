@@ -8,7 +8,7 @@ website](https://gg4l.com/?s=&post_type=product).
 > If you don't integrate with GG4L already, here is a rundown of why we use them:
 > - **Secure SIS Data Roster Exchange** 
 > 
->   GG4L Connect is consent-based requiring the school Data Administrator to be 100% in control of inviting or   
+>   GG4L Connect is consent-based requiring the school Data Administrator to be 100% in control of inviting or 
 >   approving a Vendor to access a subset or all of the school’s stored SIS data.
 > 
 > - **Privacy and Security** 
@@ -44,4 +44,4 @@ website](https://gg4l.com/?s=&post_type=product).
 >   digital learning.
 
 If you need to sign up with GG4L, contact your support rep to get the process started. If you already have GG4L follow
-these steps to add the SmartPass app through GG4L Connect.
+[these steps](gg4l2.md) to add the SmartPass app through GG4L Connect.

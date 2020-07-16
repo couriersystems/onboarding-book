@@ -15,5 +15,5 @@ First we will activate SmartPass in GG4L Connect.
 > 6. Set an expiration time.
 > 7. Click `ACTIVATE` again at the bottom. In the pop up, enter the name of the schools that you have purchased SmartPass for. Then hit `SEND REQUEST`
 
-Once you have submitted a request to add SmartPass through GG4L connect, your tech contact will reach out to you once
-the request has been approved and your accounts have been synced. 
+Once you have submitted a request to add SmartPass through GG4L Connect, your tech contact will reach out to you once
+the request has been approved and your accounts have been synced.
