@@ -25,6 +25,10 @@ a.gitbook-link {
 
 /* Code Block (Used to highlight buttons in UI) */
 
+.markdown-section pre>code {
+    color: inherit;
+}
+
 .markdown-section code {
     color: white;
     font-weight: bold;
