@@ -8,7 +8,7 @@ First we will activate SmartPass in GG4L Connect.
 > 2. Click `Add Application`
 >    ![add app](../imgs/gg4l_add_app.png)
 > 3. Search for SmartPass in the application list along the top bar, then click `ACTIVATE`
->    ![gg4l_activate](gg4l_activate.png)
+>    ![gg4l_activate](../imgs/gg4l_activate.png)
 > 4. Select the schools that SmartPass should have access to.
 > 5. Briefly look over the attributes. The values we require have been pre-selected for you. Contact us with any
 >    questions on how we use a particular attribute. 
