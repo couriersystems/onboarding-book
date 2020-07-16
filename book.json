@@ -1,0 +1,20 @@
+{
+    "plugins": [
+        "-sharing",
+        "callouts",
+        "remove-publish-link"
+    ],
+    "pluginsConfig": {
+        "callouts": {
+            "showTypeInHeader": false,
+            "sptodo": {
+                "alert": "sp-todo",
+                "picto": "fa-check-square"
+            },
+            "sphelp": {
+                "alert": "info",
+                "picto": "fa-question-circle"
+            }
+        }
+    }
+}

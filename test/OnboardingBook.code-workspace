@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.rulers": [120],
+		"editor.wordWrap": "wordWrapColumn",
+		"editor.wordWrapColumn": 120,
+		"editor.wordBasedSuggestions": false,
+		"editor.minimap.enabled": false,
+		"[markdown]":{
+			"editor.wordWrap": "wordWrapColumn",
+			"editor.wordWrapColumn": 120,
+		},
+	},
+}
