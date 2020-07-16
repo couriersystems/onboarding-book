@@ -2,7 +2,6 @@
     "plugins": [
         "-sharing",
         "callouts",
-        "remove-publish-link",
         "favicon"
     ],
     "pluginsConfig": {

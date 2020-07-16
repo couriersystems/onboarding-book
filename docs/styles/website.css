@@ -18,6 +18,10 @@
     color: #00B476
 }
 
+a.gitbook-link {
+    display: none !important;
+}
+
 
 /* Code Block (Used to highlight buttons in UI) */
 
